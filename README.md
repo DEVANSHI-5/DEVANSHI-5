@@ -1,28 +1,16 @@
-# 👋 Hi, I'm Devanshi Wadkar
+# 👋 Hi, I'm Devanshi 
 
-🎓 MSc in Data Science | 📊 Data Analyst | 🔍 Aspiring Solutions Analyst  
-📍 Hatfield, UK | 🌐 devanshiwadkar5@gmail.com | [LinkedIn](https://www.linkedin.com/in/devanshiwadkar4685261a9) | [GitHub](https://github.com/Devanshi-5)
+🎓 MSc Data Science | 📊 Data Analyst | 💼 Aspiring Solutions Analyst
 
----
+- 🔍 Passionate about solving business problems using data-driven solutions
+- 🛠️ Skilled in Python, SQL, Power BI, Alteryx, Tableau, and Snowflake
+- 📈 Experienced in A/B Testing, KPI Analysis, and Data Visualization
+- 🤝 Strong in cross-functional collaboration and stakeholder communication
+- 🚀 Currently learning advanced data architecture and solution design
+- 📂 Check out my projects on data analytics, predictive modeling, and dashboards!
 
-💡 **About Me**  
-I'm a data enthusiast with a passion for transforming complex problems into actionable insights using Python, SQL, and BI tools. I bring hands-on experience in A/B testing, data visualization, and analytics, and I'm now focused on bridging business and technology through solution analysis and data-driven decision making.
+Let’s connect and build data-powered solutions together!
 
-🔧 **Tech Toolbox**  
-- **Languages & Tools:** Python, SQL, Alteryx, Power BI, Tableau, Looker  
-- **Data Skills:** Data Cleaning • ETL • A/B Testing • Visualization • KPI Reporting  
-- **Platforms:** Snowflake • DBT • JIRA • Git  
-- **Soft Skills:** Communication • Problem Solving • Agile Collaboration
-
-🚀 **Current Focus**  
-Learning advanced solution design patterns, data pipelines, and exploring real-world data analytics projects.
-
----
-
-📂 **Pinned Projects**  
-Check out some of my projects below — from predictive modeling to data dashboards!
-
-Thanks for visiting my profile! Let's connect and build something impactful. 😊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVANSHI-5&show_icons=true&theme=radical)
 
