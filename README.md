@@ -23,3 +23,6 @@ Learning advanced solution design patterns, data pipelines, and exploring real-w
 Check out some of my projects below — from predictive modeling to data dashboards!
 
 Thanks for visiting my profile! Let's connect and build something impactful. 😊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVANSHI-5&show_icons=true&theme=radical)
+
